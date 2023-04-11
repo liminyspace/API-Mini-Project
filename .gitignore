@@ -108,6 +108,7 @@ env/
 venv/
 ENV/
 env.bak/
+NASDAQ_API_KEY.env
 venv.bak/
 
 # Spyder project settings
